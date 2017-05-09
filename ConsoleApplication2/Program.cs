@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            //The local should haven't this comment
             Console.WriteLine("Hello first git");
             int x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("The result =" + (x +2));
