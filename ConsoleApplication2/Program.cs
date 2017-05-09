@@ -15,6 +15,7 @@ namespace ConsoleApplication2
             int x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("The result =" + (x +2));
             Console.ReadLine();
+            //Another comment before merge
         }
     }
 }
